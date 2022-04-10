@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jdbc-book-code" />
+        <module name="jdbc_app" />
       </profile>
     </annotationProcessing>
   </component>
